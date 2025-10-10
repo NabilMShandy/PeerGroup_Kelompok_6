@@ -27,3 +27,5 @@ else
     saldo = saldo - tarikk;
     break;
 }
+// BAGIAN NAILAH
+
