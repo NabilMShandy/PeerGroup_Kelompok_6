@@ -15,5 +15,6 @@ while (pilihan != 4)
 cout << "Terima Kasih telah menggunakan!\n";
 
 return 0;
-// BAGIAN FAREL
+
 }
+// BAGIAN FAREL
