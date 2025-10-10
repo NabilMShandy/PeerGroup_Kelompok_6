@@ -16,4 +16,6 @@ void menu()
     cout << "2. TARIK TUNAI\n";
     cout << "3. CEK SALDO\n";
     cout << "4. KELUAR PROGRAM\n";
+
 }
+// BAGIAN RASYA
