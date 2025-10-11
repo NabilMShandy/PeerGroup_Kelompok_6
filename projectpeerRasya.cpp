@@ -2,8 +2,8 @@
 using namespace std;
 
 // Deklarasi variabel untuk dipanggil
-int saldo;
-int tarikk = 0;
+int saldo = 0;
+int tarikk;
 
 void menu()
 {
@@ -19,3 +19,4 @@ void menu()
 
 }
 // BAGIAN RASYA
+
