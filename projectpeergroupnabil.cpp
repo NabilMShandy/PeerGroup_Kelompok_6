@@ -26,4 +26,8 @@ int main()
             saldo = deposit(saldo, jumlah);
             break;
 
+// Menampilkan saldo
+case 3:
+    cout << "Saldo anda sekarang: "  << "Rp" << saldo << endl;
+
 // BAGIAN NABIL
