@@ -5,4 +5,10 @@ int deposit(int saldof, int jumlahf)
     cout << "Anda melakukan deposit sebesar" << " Rp" << saldo_baru << endl;
     return saldo_baru;
 }
+
+// Menampilkan saldo
+case 3:
+    cout << "Saldo anda sekarang: "  << "Rp" << saldo << endl;
+        
 // BAGIAN GALANG
+
