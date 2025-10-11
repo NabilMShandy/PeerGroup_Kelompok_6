@@ -27,4 +27,8 @@ else
     saldo = saldo - tarikk;
     break;
 }
-// BAGIAN NAILAH
+// Menampilkan saldo
+case 3:
+    cout << "Saldo anda sekarang: "  << "Rp" << saldo << endl;
+        
+// BAGIAN NABIL
